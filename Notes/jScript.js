@@ -115,6 +115,18 @@ document.body.style.backgroundColor = "white";
 
 
 
+// How to get the day with javascript
+
+<p id="datetime"></p>
+// get current date and time
+var now = new Date();
+var datetime = now.toLocaleString();
+
+// Insert date and time into HTML
+document.getElementById("datetime").innerHTML = datetime;
+
+
+
 
 
 
