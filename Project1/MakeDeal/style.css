@@ -1,0 +1,76 @@
+body{
+    background-color: gray;
+}
+
+.top-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.instructions{
+    color: black;
+}
+
+.bluedoor{
+    background-color: black;
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+
+.losetext{
+    width: 501px;
+    height: 225px;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    /* width: 75px; */
+    font-weight: bolder;
+    margin-bottom: 20px;
+    font-size:30px ;
+    color: black;
+    
+}
+
+.bottom-container{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+}
+
+.door1 {
+    width: 155px;
+    height: 280px;
+    background-color: gray;
+}
+.door2 {
+    width: 155px;
+    height: 280px;
+    background-color: gray;
+}
+.door3 {
+    width: 155px;
+    height: 280px;
+}
+
+.reset{
+    font-size: xx-large;
+    color: pink;
+    margin-top: 30px;
+}
+
+.reset2{
+    align-items: center;
+    font-size: xx-large;
+    color: pink;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
