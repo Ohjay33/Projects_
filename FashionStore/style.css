@@ -1,0 +1,43 @@
+.navbar-options{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 10px; */
+    /* background-color: aqua; */
+height: 175px;
+align-items: center;
+}
+
+h1{
+    font-size: 40px;
+    color: aliceblue;
+}
+
+.nav-bar-title{
+
+}
+.navbar{
+    height: 75px;
+    width: 100%;
+    background-color: rgb(174, 137, 208);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.clothes{
+    height:75px;
+    width: 75px;
+}
+
+.main-section{
+    background-color: gray;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#shopping-time{
+    height: 400px;
+    width: 89%;
+    padding: 20px;
+}

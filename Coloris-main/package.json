@@ -30,5 +30,8 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "Coloris": "file:"
   }
 }

@@ -1,0 +1,158 @@
+container1{
+    border: 4px solid black;
+}
+
+h1{
+    color: blue;
+    /* width: 300px; */
+    background-color: bisque;
+    text-align: center;
+    border: 3px solid black;
+    height: 55px;
+    padding: 4px 4px;
+}
+
+p {
+    color: brown;
+    background-color: aqua;
+
+}
+
+.orange{
+    color: darkorange;
+    background-color: chartreuse;
+}
+
+#pink{
+    color: pink;
+    background-color: black;
+    border: 2px solid red;
+}
+
+.container2{
+    border: 3px solid black;
+    /* display: flex; */
+    /* justify-content: space-evenly; */
+}
+.top{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.child{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 1px dotted black;
+    color: wheat;
+    font-size: larger;
+    text-align: center;
+}
+.container3{
+    background-color: black;
+}
+
+.smallcontainer3{
+    background-color: blueviolet;
+    /* height: 500px; */
+
+
+}
+
+.top3{
+    background-color: rgb(238, 242, 232);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#title{
+    color: black;
+}
+
+#trader{
+    height: 300px;
+    width: 85%;
+    align-items: center;
+    /* padding-left: 10px; */
+}
+
+.bottom3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0px;
+    background-color: rgb(238, 242, 232);
+}
+
+
+
+.box1{
+    /* background-color: gray; */
+    height: 390px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 5px;
+    border: 3px solid black;
+
+
+
+}
+.box2{
+    /* background-color: gray; */
+    height: 390px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5px;
+    border: 3px solid black;
+
+
+
+}
+.box3{
+    /* background-color: gray; */
+    height: 390px;
+    width: 350px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 5px;
+    border: 3px solid black;
+
+
+}
+
+.pic{
+    height: 155px;
+    width: 155px;
+    background-color: yellowgreen;
+    border: 3px solid black;
+    border-radius: 10px 10px 10px;
+}
+
+.group1{
+    display: flex;
+    /* flex-direction: column; */
+    background-color: blue;
+    /* width: 75px; */
+    /* height: 175px; */
+    justify-content: space-evenly;
+    margin-bottom: 50px;
+    /* padding-top: 50px; */
+
+}
+
+.group2{
+    display: flex;
+    background-color: rgb(36, 173, 204);
+    justify-content: space-evenly;
+
+}
+
+
+
+
