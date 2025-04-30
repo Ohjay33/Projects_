@@ -41,3 +41,9 @@ h1{
     width: 89%;
     padding: 20px;
 }
+
+.sales-table{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+}
