@@ -16,6 +16,10 @@ h1 {
     /* background-color: rgb(174, 137, 208); */
 }
 
+p{
+    font-size: smaller;
+}
+
 
 
 .navbar {
@@ -49,14 +53,16 @@ h1 {
 
 .sales-table {
 margin: auto;
-border: 1px solid rgb(67, 65, 65);
-/* padding: 13px; */
+border: 2px solid rgb(67, 65, 65);
+padding-bottom: 20px;
 width: 90vw;
+
+/* height: 55px; */
 
 }
 .sales-table-head{
     background-color: rgb(163, 92, 243);
-    height: 50px;
+    height: 40px;
 }
 
 
@@ -64,5 +70,27 @@ width: 90vw;
     display: flex;
     justify-content: center;
     background-color: grey;
+
     /* width: 200px; */
+}
+.information-section{
+    background-color: white;
+    /* margin-left: 5px; */
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* height: fit-content; */
+    
+
+}
+.information{
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+
+.footer{
+    width: 100%;
+    /* background-color: black; */
+    height: 100px;
 }
